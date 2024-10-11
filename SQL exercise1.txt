@@ -1,0 +1,13 @@
+1.	Write a query to find all students whose FirstName starts with the letter 'A' or ends with the letter 'n', and display the results ordered by LastName in ascending order
+
+2.	Write a query to find all students whose LastName contains the letter 'e' and whose StudentID is greater than 5, displaying the results in descending order of StudentID.
+
+3.	Write a query to find all students whose FirstName does not start with the letter 'J' and whose LastName does not contain the letter 'a', displaying them in ascending order by FirstName.
+
+4.	Write a query to find all students whose FirstName and LastName both contain the letter 'o', displaying the results in alphabetical order of LastName, then FirstName.
+
+5.	Write a query to find all students whose StudentID is an odd number and whose FirstName contains the letter 'i', displaying the results in ascending order by LastName.
+
+6.	Write a query to find all students whose FirstName has exactly 5 characters and display them in descending order by StudentID.
+
+7.	Write a query to find all students whose LastName starts with a vowel (A, E, I, O, U) and display them in ascending order by FirstName.
